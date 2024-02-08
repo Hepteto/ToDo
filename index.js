@@ -32,8 +32,8 @@ app.get('/', (req,res) =>{
 mongoose.connect(process.env.MONGO) // conectar ao banco de dados
 .then(() => {
     console.log("Conectamos ao mongo DB")
-    //const port = process.env.PORT || 3000;
-    // app.listen(port) // Vai ler a porta
-    app.listen(3000) 
+    const port = process.env.PORT || 3000;
+    app.listen(port) // Vai ler a porta
+    // app.listen(3000) 
 })
 .catch((err) => console.log(err))
