@@ -267,3 +267,15 @@ router.delete('/:id', async (req, res) => {
 ```js
 module.exports = router;
 ```
+## 7. Endpoints
+### 7.1 Para Verificar se a API Está Funcionando
+- [x] {{URL}}/
+- [x] https://todo-xfvj.onrender.com/
+
+### 7.2 Para Acessar Todas as Tarefas
+- [x] {{URL}}/todo
+- [x] https://todo-xfvj.onrender.com/todo
+
+### 7.3 Para Acessar, Deletar ou Atualizar uma Tarefa Especifica:
+- [x] {{URL}}/todo/id
+- [x] https://todo-xfvj.onrender.com/todo/65c29e4d7001ea2779ca351f
