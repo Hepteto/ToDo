@@ -3,7 +3,7 @@
 # Tarefandoo - TODO List
 Descrição... API - Back-End
 
-:globe_with_meridians: API: https://todo-xfvj.onrender.com/
+:globe_with_meridians: API: https://tarefandoo.vercel.app/
 
 
 ## 1. Criando:
@@ -253,3 +253,10 @@ module.exports = router;
 ### 6.3 Para Acessar, Deletar ou Atualizar uma Tarefa Especifica:
 - [x] {{URL}}/todo/id
 - [x] https://tarefandoo.vercel.app/todo/65c29e4d7001ea2779ca351f
+
+## Autores
+
+- [@annaagabi](https://www.github.com/annaagabi)
+- [@Doyklas](https://www.github.com/Doyklas)
+- [@GabrielaLimadaLuz](https://www.github.com/GabrielaLimadaLuz)
+- [@GeoGustin](https://www.github.com/GeoGustin)
